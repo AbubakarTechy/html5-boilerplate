@@ -8,7 +8,7 @@
 - ci: Use GITHUB_OUTPUT envvar instead of set-output command [#3068](https://github.com/h5bp/html5-boilerplate/pull/3068)
 - Readme and Changelog updates [#3055](https://github.com/h5bp/html5-boilerplate/pull/3055) [#3057](https://github.com/h5bp/html5-boilerplate/pull/3057) [#3064](https://github.com/h5bp/html5-boilerplate/pull/3064)
 
-## 9.0.0 (December 6, 2023)
+### 9.0.0 (December 6, 2023)
 
 - Removing tile images [#3023](https://github.com/h5bp/html5-boilerplate/pull/3023)
 - Add Prettier [#3011](https://github.com/h5bp/html5-boilerplate/pull/3011)
